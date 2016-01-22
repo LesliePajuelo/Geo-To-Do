@@ -1,0 +1,19 @@
+{
+  "name": "hirmvp",
+  "version": "1.0.0",
+  "description": "A geolocation based to-do list",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LesliePajuelo/Geo-To-Do.git"
+  },
+  "author": "Leslie Pajuelo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LesliePajuelo/Geo-To-Do/issues"
+  },
+  "homepage": "https://github.com/LesliePajuelo/Geo-To-Do#readme"
+}
